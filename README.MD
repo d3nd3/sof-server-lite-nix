@@ -6,3 +6,4 @@ Incorporates the [sof-plus-plus-nix](https://github.com/d3nd3/sof-plus-plus-nix)
 Which provides: 
 - Http Map Downloads.
 - Functional 1.07f compatibility.
+- Serverlisting capabilities ( master server interaction ).
