@@ -1,0 +1,23 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"Ministry of Sin"
+enemy/dth/skin
+f_w_8_
+{
+a a_nycskinboss 0
+b b_nycskinboss 0
+f f_w_8_n 0
+h h_w_8_s 0
+}
+{
+boltons/menushot.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

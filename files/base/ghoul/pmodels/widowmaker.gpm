@@ -1,0 +1,28 @@
+enemy/female
+fem_menu1
+fem_play
+playertiti
+"Capture, Inc"
+enemy/dth/fem
+f_gina_
+{
+a a_gina 0
+b b_gina 0
+f f_gina_n 0
+h h_gina 0
+}
+{
+boltons/gina_hair.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/gina_guns.gbm abolt_hip_r to_abolt_hip_r 1.0
+boltons/gina_guns.gbm abolt_hip_l to_abolt_hip_l 1.0
+}
+{
+_LBANG 0
+_RBANG 0
+_MEDMHAIRMHEAD 0
+_CREWHAIR 0
+_LEAR 1
+_REAR 1
+_DRESSHIPS 0
+}
+""

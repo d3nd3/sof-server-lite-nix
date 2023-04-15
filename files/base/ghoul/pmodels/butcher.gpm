@@ -1,0 +1,23 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+Meatwagon
+enemy/dth/arab
+f_b_7_
+{
+a a_ugbutcher 0
+b b_ugbutcher 0
+f f_b_7_n 0
+h h_b_7_s 0
+}
+{
+boltons/menushot.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

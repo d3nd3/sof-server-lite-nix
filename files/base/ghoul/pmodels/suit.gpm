@@ -1,0 +1,28 @@
+enemy/meso
+meso_menu8
+meso_player
+playercalfcuff
+"Noteam"
+enemy/dth/jpn
+"f_j_4_"
+{
+a a_tokhench2 0
+b b_tokhench2 0
+f f_j_4_n 0
+h h_j_4_s 0
+}
+{
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

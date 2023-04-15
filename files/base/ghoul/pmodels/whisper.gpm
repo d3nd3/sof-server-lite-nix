@@ -1,0 +1,26 @@
+enemy/female
+fem_menu1
+fem_play
+playertiti
+"Noteam"
+enemy/dth/fem
+f_j_8_
+{
+a a_tokassassin 0
+b b_tokassassin 0
+f f_j_8_n 0
+h h_j_8_m 0
+}
+{
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_LBANG 0
+_RBANG 0
+_MEDMHAIRMHEAD 1
+_CREWHAIR 0
+_LEAR 0
+_REAR 0
+_DRESSHIPS 0
+}
+""

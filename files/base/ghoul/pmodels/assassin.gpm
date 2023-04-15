@@ -1,0 +1,30 @@
+enemy/meso
+meso_menu6
+meso_player
+playerbulbulcoat
+"Red Guard"
+enemy/dth/russ
+"f_w_10_"
+{
+a a_kossnipe 0
+b b_kossnipe 0
+f f_w_10_n 0
+h h_w_10_s 0
+}
+{
+boltons/helmet2grn.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/gasmask2a.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menurifle.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_baldhead 0
+_comface 0
+}
+""

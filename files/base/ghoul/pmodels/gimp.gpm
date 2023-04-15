@@ -1,0 +1,23 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"The Order"
+enemy/dth/rad
+{}
+{
+a a_dcbrute 0
+b b_dcbrute 0
+f f_raider4 0
+h h_raider4 0
+}
+{
+boltons/menushot.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

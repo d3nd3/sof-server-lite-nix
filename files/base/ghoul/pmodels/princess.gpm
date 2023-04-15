@@ -1,0 +1,26 @@
+enemy/female
+fem_menu1
+fem_play
+playertiti
+"Ministry of Sin"
+enemy/dth/fem
+f_w_15_
+{
+a a_nycskinchick 0
+b b_nycskinchick 0
+f f_w_15_n 0
+h h_w_15_c 0
+}
+{
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_LBANG 1
+_RBANG 0
+_MEDMHAIRMHEAD 0
+_CREWHAIR 1
+_LEAR 1
+_REAR 1
+_DRESSHIPS 0
+}
+""

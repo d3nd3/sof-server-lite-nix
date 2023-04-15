@@ -1,0 +1,32 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"Capture, Inc"
+enemy/dth/rad
+f_rick_
+{
+a a_rick 0
+b b_rick 0
+f f_rick_n 0
+h h_rick 0
+}
+{
+boltons/acc_rick_bandana.gbm abolt_head_t to_abolt_head_t 1.0
+boltons/acc_box_rick.gbm abolt_hip_r to_abolt_hip_r 1.0
+boltons/acc_box_rick.gbm abolt_hip_l to_abolt_hip_l 1.0
+boltons/acc_radio_rick.gbm abolt_back to_abolt_back 1.0
+boltons/menushot.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

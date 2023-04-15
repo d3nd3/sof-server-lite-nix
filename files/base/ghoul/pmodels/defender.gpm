@@ -1,0 +1,29 @@
+enemy/meso
+meso_menu4
+meso_player
+playerarbul
+"Noteam"
+enemy/dth/arab
+"f_m_1_"
+{
+a a_irqbodyguard 0
+b b_irqbodyguard 0
+f f_m_1_n 0
+h h_m_1_s 0
+}
+{
+boltons/blackberet.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menumgun.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

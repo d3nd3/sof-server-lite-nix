@@ -1,0 +1,29 @@
+enemy/meso
+meso_menu6
+meso_player
+playerbulbulcoat
+"Noteam"
+enemy/dth/rad
+"f_sam_"
+{
+a a_xsam 0
+b b_xsam 0
+f f_sam_n 0
+h h_sam 0
+}
+{
+boltons/normglasses.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menuassault.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 1
+_rbang 1
+_ponytail 1
+_crewhead 0
+_baldhead 0
+_comface 0
+_mohawk 0
+_helmethead 0
+_helmetface 0
+}
+""

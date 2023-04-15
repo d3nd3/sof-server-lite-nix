@@ -1,0 +1,32 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"Capture, Inc"
+enemy/dth/rad
+f_brian_
+{
+a a_brian 0
+b b_brian 0
+f f_brian_n 0
+h h_brian 0
+}
+{
+boltons/acc_brian_beret.gbm abolt_head_t to_abolt_head_t 1.0
+boltons/acc_brian_box_hip.gbm abolt_hip_r to_abolt_hip_r 1.0
+boltons/acc_brian_holster.gbm abolt_chest to_abolt_chest 1.0
+boltons/acc_brian_grenade.gbm abolt_back to_abolt_back 1.0
+boltons/menushot.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

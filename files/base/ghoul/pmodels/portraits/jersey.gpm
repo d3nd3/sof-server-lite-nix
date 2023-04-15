@@ -1,0 +1,30 @@
+enemy/meso
+meso_menu5
+meso_player
+playerbulbul
+"Capture, Inc"
+enemy/dth/skin
+"f_jim_"
+{
+a a_jim 0
+b b_jim 0
+f f_jim_n 0
+h h_jim 0
+}
+{
+boltons/acc_pistol_jim.gbm abolt_thigh_r to_abolt_thigh_r 1.0
+boltons/acc_knife_jim.gbm abolt_thigh_l to_abolt_thigh_l 1.0
+boltons/menupistol2.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_ponytail 1
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_helmethead 0
+_helmetface 0
+}
+""

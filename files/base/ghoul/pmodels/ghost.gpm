@@ -1,0 +1,19 @@
+enemy/meso
+meso_menu2
+meso_player
+playercoat
+"The December Brigade"
+enemy/dth/jpn
+{}
+{
+a a_sibtrooper2 0
+b b_sibtrooper2 0
+hd hd_sibtroop 0
+f f_sibtroop 0
+}
+{
+boltons/gasmask1.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{}
+""

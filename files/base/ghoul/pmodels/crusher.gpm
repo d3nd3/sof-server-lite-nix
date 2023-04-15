@@ -1,0 +1,23 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+Noteam
+enemy/dth/arab
+f_m_5_
+{
+a a_irqbrute 0
+b b_irqbrute 0
+f f_m_5_n 0
+h h_m_5_s 0
+}
+{
+boltons/menuassault.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""
