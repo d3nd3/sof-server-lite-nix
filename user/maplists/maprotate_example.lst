@@ -1,0 +1,208 @@
+// Example maplist that can be used with the spf_sv_maprotate script
+// The original spf_sv_maprotate file can process the following gametype
+// prefixes:
+//   arsenal or ar
+//   assassin or as
+//   control or con
+//   ctb
+//   ctf
+//   dm
+//   realistic or rl
+//   redblue_ctb or rbctb
+//   team_dm or tdm
+//   team_realistic or trl
+
+// A map entry must be in the following format:
+//   [<random text>|][<gametype prefix>:]<mapname><space(s) or tab(s)>"<description>"
+// The <random text> contents can be used as a description, or to make a map
+// entry in the list unique (see last example)
+
+
+//
+// Loop with DM maps
+//
+dm:dm/airportdm			"Airport: 8+"
+dm:dm/factorydm			"Factory: 8+"
+dm:dm/irqdesertdm		"Iraqi Desert: 6+"
+dm:dm/irqdm1			"Refinery: 6 - 8"
+dm:dm/irqdm2			"Palace: 8 - 10"
+dm:dm/jpndm2			"Restaurant: 2 - 6"
+dm:dm/kosdm1			"The Sewers: 4 - 8"
+dm:dm/labdm			"The Lab: 8+"
+dm:dm/nycdm1			"Warehouse: 8 - 16"
+dm:dm/nycdm2			"Underground: 4 - 6"
+dm:dm/nycdm3			"Pawn Shop : 2 - 4"
+dm:dm/nycdm4			"Back Alley: 2 - 4"
+dm:dm/nycdm5			"Bunker: 2 - 5"
+dm:dm/plantdm			"Power Plant: 8+"
+dm:dm/raven			"Raven Software: 4+"
+dm:dm/suddm1			"WI Death Farm: 6 - 10"
+dm:dm/suddm2			"Trainyard: 6 - 8"
+dm:dm/suddm3			"Rusted: 2 - 6"
+// First map again, to make the list loop
+dm:dm/airportdm			"Airport: 8+"
+
+//
+// Loop with CON maps
+//
+con:dm/gercon1			"Castle Con: 8 - 12"
+con:dm/irqcon1			"Power Plant: 6 - 12"
+con:dm/jpncon1			"Rooftop: 6 - 10"
+con:dm/koscon1			"Street Fight: 4 - 8"
+con:dm/koscon2			"Airfield: 6 - 12"
+con:dm/sibcon1			"Cold Front: 8 - 12"
+con:dm/sudcon1			"S.I.: 6 - 16"
+// First map again, to make the list loop
+con:dm/gercon1			"Castle Con: 8 - 12"
+
+//
+// Loop with CTB maps
+//
+ctb:dm/gerctb1			"Castle Gate: 5 - 12"
+ctb:dm/irqctb1			"Oil Toil: 6 - 10"
+ctb:dm/irqctb2			"Cargo Plane: 8 - 12"
+ctb:dm/irqctb3			"Building: 6 - 12"
+ctb:dm/jpnctb1			"Cleanroom: 6 - 12"
+ctb:dm/kosctb1			"Old Town: 6 - 10"
+ctb:dm/nycctb1			"Pendulum: 8 - 12"
+ctb:dm/nycctb2			"Death Barge: 8 - 12"
+ctb:dm/sibctb1			"Icelock: 4 - 8"
+ctb:dm/sibctb2			"Snowbase: 6 - 12"
+ctb:dm/sudctb1			"Meat Plant: 8 - 12"
+// First map again, to make the list loop
+ctb:dm/gerctb1			"Castle Gate: 5 - 12"
+
+//
+// Loop with CTF maps
+//
+ctf:dm/gerctf1			"Castle Kill: 6 - 10"
+ctf:dm/irqctf1			"Wastelands: 6 - 12"
+ctf:dm/jpnctf1			"Parking: 4 - 8"
+ctf:dm/nycctf1			"Gangland: 16"
+ctf:dm/sibctf1			"Hell Freezes: 16"
+ctf:dm/sudctf1			"Flag Frag: 4 - 8"
+ctf:dm/sudctf2			"Missile Base: 16"
+// First map again, to make the list loop
+ctf:dm/gerctf1			"Castle Kill: 6 - 10"
+
+//
+// Loop with all maps as original gametype
+//
+all|dm:dm/airportdm		"Airport: 8+"
+all|dm:dm/factorydm		"Factory: 8+"
+all|dm:dm/irqdesertdm		"Iraqi Desert: 6+"
+all|dm:dm/irqdm1		"Refinery: 6 - 8"
+all|dm:dm/irqdm2		"Palace: 8 - 10"
+all|dm:dm/jpndm2		"Restaurant: 2 - 6"
+all|dm:dm/kosdm1		"The Sewers: 4 - 8"
+all|dm:dm/labdm			"The Lab: 8+"
+all|dm:dm/nycdm1		"Warehouse: 8 - 16"
+all|dm:dm/nycdm2		"Underground: 4 - 6"
+all|dm:dm/nycdm3		"Pawn Shop : 2 - 4"
+all|dm:dm/nycdm4		"Back Alley: 2 - 4"
+all|dm:dm/nycdm5		"Bunker: 2 - 5"
+all|dm:dm/plantdm		"Power Plant: 8+"
+all|dm:dm/raven			"Raven Software: 4+"
+all|dm:dm/suddm1		"WI Death Farm: 6 - 10"
+all|dm:dm/suddm2		"Trainyard: 6 - 8"
+all|dm:dm/suddm3		"Rusted: 2 - 6"
+
+all|con:dm/gercon1		"Castle Con: 8 - 12"
+all|con:dm/irqcon1		"Power Plant: 6 - 12"
+all|con:dm/jpncon1		"Rooftop: 6 - 10"
+all|con:dm/koscon1		"Street Fight: 4 - 8"
+all|con:dm/koscon2		"Airfield: 6 - 12"
+all|con:dm/sibcon1		"Cold Front: 8 - 12"
+all|con:dm/sudcon1		"S.I.: 6 - 16"
+
+all|ctb:dm/gerctb1		"Castle Gate: 5 - 12"
+all|ctb:dm/irqctb1		"Oil Toil: 6 - 10"
+all|ctb:dm/irqctb2		"Cargo Plane: 8 - 12"
+all|ctb:dm/irqctb3		"Building: 6 - 12"
+all|ctb:dm/jpnctb1		"Cleanroom: 6 - 12"
+all|ctb:dm/kosctb1		"Old Town: 6 - 10"
+all|ctb:dm/nycctb1		"Pendulum: 8 - 12"
+all|ctb:dm/nycctb2		"Death Barge: 8 - 12"
+all|ctb:dm/sibctb1		"Icelock: 4 - 8"
+all|ctb:dm/sibctb2		"Snowbase: 6 - 12"
+all|ctb:dm/sudctb1		"Meat Plant: 8 - 12"
+
+all|ctf:dm/gerctf1		"Castle Kill: 6 - 10"
+all|ctf:dm/irqctf1		"Wastelands: 6 - 12"
+all|ctf:dm/jpnctf1		"Parking: 4 - 8"
+all|ctf:dm/nycctf1		"Gangland: 16"
+all|ctf:dm/sibctf1		"Hell Freezes: 16"
+all|ctf:dm/sudctf1		"Flag Frag: 4 - 8"
+all|ctf:dm/sudctf2		"Missile Base: 16"
+
+// First map again, to make the list loop
+all|dm:dm/airportdm		"Airport: 8+"
+
+//
+// Loop with all maps as dm gametype
+//
+allasdm|dm:dm/airportdm		"Airport: 8+"
+allasdm|dm:dm/factorydm		"Factory: 8+"
+allasdm|dm:dm/irqdesertdm	"Iraqi Desert: 6+"
+allasdm|dm:dm/irqdm1		"Refinery: 6 - 8"
+allasdm|dm:dm/irqdm2		"Palace: 8 - 10"
+allasdm|dm:dm/jpndm2		"Restaurant: 2 - 6"
+allasdm|dm:dm/kosdm1		"The Sewers: 4 - 8"
+allasdm|dm:dm/labdm		"The Lab: 8+"
+allasdm|dm:dm/nycdm1		"Warehouse: 8 - 16"
+allasdm|dm:dm/nycdm2		"Underground: 4 - 6"
+allasdm|dm:dm/nycdm3		"Pawn Shop : 2 - 4"
+allasdm|dm:dm/nycdm4		"Back Alley: 2 - 4"
+allasdm|dm:dm/nycdm5		"Bunker: 2 - 5"
+allasdm|dm:dm/plantdm		"Power Plant: 8+"
+allasdm|dm:dm/raven		"Raven Software: 4+"
+allasdm|dm:dm/suddm1		"WI Death Farm: 6 - 10"
+allasdm|dm:dm/suddm2		"Trainyard: 6 - 8"
+allasdm|dm:dm/suddm3		"Rusted: 2 - 6"
+
+allasdm|dm:dm/gercon1		"Castle Con: 8 - 12"
+allasdm|dm:dm/irqcon1		"Power Plant: 6 - 12"
+allasdm|dm:dm/jpncon1		"Rooftop: 6 - 10"
+allasdm|dm:dm/koscon1		"Street Fight: 4 - 8"
+allasdm|dm:dm/koscon2		"Airfield: 6 - 12"
+allasdm|dm:dm/sibcon1		"Cold Front: 8 - 12"
+allasdm|dm:dm/sudcon1		"S.I.: 6 - 16"
+
+allasdm|dm:dm/gerctb1		"Castle Gate: 5 - 12"
+allasdm|dm:dm/irqctb1		"Oil Toil: 6 - 10"
+allasdm|dm:dm/irqctb2		"Cargo Plane: 8 - 12"
+allasdm|dm:dm/irqctb3		"Building: 6 - 12"
+allasdm|dm:dm/jpnctb1		"Cleanroom: 6 - 12"
+allasdm|dm:dm/kosctb1		"Old Town: 6 - 10"
+allasdm|dm:dm/nycctb1		"Pendulum: 8 - 12"
+allasdm|dm:dm/nycctb2		"Death Barge: 8 - 12"
+allasdm|dm:dm/sibctb1		"Icelock: 4 - 8"
+allasdm|dm:dm/sibctb2		"Snowbase: 6 - 12"
+allasdm|dm:dm/sudctb1		"Meat Plant: 8 - 12"
+
+allasdm|dm:dm/gerctf1		"Castle Kill: 6 - 10"
+allasdm|dm:dm/irqctf1		"Wastelands: 6 - 12"
+allasdm|dm:dm/jpnctf1		"Parking: 4 - 8"
+allasdm|dm:dm/nycctf1		"Gangland: 16"
+allasdm|dm:dm/sibctf1		"Hell Freezes: 16"
+allasdm|dm:dm/sudctf1		"Flag Frag: 4 - 8"
+allasdm|dm:dm/sudctf2		"Missile Base: 16"
+
+// First map again, to make the list loop
+allasdm|dm:dm/airportdm		"Airport: 8+"
+
+//
+// Loop with repeats of dm/raven
+//
+something1|dm:dm/raven		"Raven Software: 4+"
+something|dm:dm/nycdm1		"Warehouse: 8 - 16"
+something2|dm:dm/raven		"Raven Software: 4+"
+something|dm:dm/nycdm2		"Underground: 4 - 6"
+something3|dm:dm/raven		"Raven Software: 4+"
+something|dm:dm/nycdm3		"Pawn Shop : 2 - 4"
+something4|dm:dm/raven		"Raven Software: 4+"
+something|dm:dm/nycdm4		"Back Alley: 2 - 4"
+something5|dm:dm/raven		"Raven Software: 4+"
+something|dm:dm/nycdm5		"Bunker: 2 - 5"
+// First map again, to make the list loop
+something1|dm:dm/raven		"Raven Software: 4+"

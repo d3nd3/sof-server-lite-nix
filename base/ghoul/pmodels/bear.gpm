@@ -1,0 +1,24 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"Red Guard"
+enemy/dth/russ
+f_w_16_
+{
+a a_kosbrute 0
+b b_kosbrute 0
+f f_w_16_n 0
+h h_w_16_s 0
+}
+{
+boltons/gasmask2a.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menumgun.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

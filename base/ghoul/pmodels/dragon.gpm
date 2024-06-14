@@ -1,0 +1,22 @@
+enemy/meso
+meso_menu3
+meso_player
+playermask
+"Red Guard"
+enemy/dth/russ
+{}
+{
+a a_kosgrunt2 0
+b b_kosgrunt2 0
+md md_serbgrunt2 0
+}
+{
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

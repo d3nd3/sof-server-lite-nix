@@ -1,0 +1,28 @@
+enemy/meso
+meso_menu9
+meso_player
+playerbultibul
+"Meatwagon"
+enemy/dth/arab
+"f_b_4_"
+{
+a a_ugnsoldier3 0
+b b_ugnsoldier3 0
+f f_b_4_n 0
+h h_b_4_c 0
+}
+{
+boltons/menumpistol.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

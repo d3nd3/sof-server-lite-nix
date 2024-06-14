@@ -1,0 +1,30 @@
+enemy/meso
+meso_menu10
+meso_player
+playerbulbulti
+"Noteam"
+enemy/dth/rad
+"f_b_4_"
+{
+a a_nycswat 0
+b b_nycswat 0
+f f_b_4_n 0
+h h_b_4_c 0
+}
+{
+boltons/goggles.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/swathelmet.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_baldhead 0
+_comface 0
+}
+""

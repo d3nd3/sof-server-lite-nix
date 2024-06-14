@@ -1,0 +1,26 @@
+enemy/female
+fem_menu2
+fem_play
+playerbulti
+"Noteam"
+enemy/dth/fem
+f_taylor_
+{
+a a_xtaylor 0
+b b_xtaylor 0
+f f_taylor_n 0
+h h_taylor 0
+}
+{
+boltons/menumpistol.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_LBANG 0
+_RBANG 0
+_MEDMHAIRMHEAD 0
+_CREWHAIR 1
+_LEAR 0
+_REAR 0
+_DRESSHIPS 0
+}
+""

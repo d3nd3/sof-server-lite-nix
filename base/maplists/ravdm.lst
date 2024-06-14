@@ -1,0 +1,25 @@
+dm/nycdm1		"Warehouse: 8 to 16 players"
+dm/nycdm2		"Underground: 4 to 6 players"
+dm/nycdm3		"Pawn Shop : 2 to 4 players"
+dm/nycdm4		"Back Alley: 2 to 4 players"
+dm/nycdm5		"Bunker: 2 to 5 players"
+
+dm/kosdm1		"The Sewers: 4 to 8 players"
+
+dm/irqdm1		"Refinery: 6 to 8 players"
+dm/irqdm2		"Palace: 8 to 10 players"
+
+dm/jpndm2		"Restaurant: 2 to 6 players"
+dm/raven		"Raven Software: 4+ players"
+
+dm/suddm1		"WI Death Farm: 6 to 10 players"
+dm/suddm2		"Trainyard: 6 to 8 players"
+dm/suddm3		"Rusted: 2 to 6 players"
+
+dm/airportdm	"Airport: 8+ Players"
+dm/labdm		"The Lab: 8+ Players"
+dm/irqdesertdm	"Iraqi Desert: 6+ Players"
+dm/factorydm	"Factory: 8+ Players"
+dm/plantdm		"Power Plant:  8+ Players"
+
+

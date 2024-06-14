@@ -1,0 +1,26 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"Noteam"
+enemy/dth/arab
+f_b_6_
+
+{
+a a_mercdemo1 0
+b b_mercdemo1 0
+f f_b_6_n 0
+h h_b_6_s 0
+}
+
+{
+boltons/sunglasses.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menuassault.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

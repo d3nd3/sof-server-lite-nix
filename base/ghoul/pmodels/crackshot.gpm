@@ -1,0 +1,25 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+Meatwagon
+enemy/dth/arab
+f_b_5_
+{
+a a_ugnsniper 0
+b b_ugnsniper 0
+f f_b_5_n 0
+h h_b_5_s 0
+}
+{
+boltons/sunglasses.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/bballtan.gbm abolt_head_t to_abolt_head_t_bkwd 1.142857142857
+boltons/menurifle.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

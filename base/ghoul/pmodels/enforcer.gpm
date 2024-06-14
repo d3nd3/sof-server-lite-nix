@@ -1,0 +1,28 @@
+enemy/meso
+meso_menu5
+meso_player
+playerbulbul
+"Ministry of Sin"
+enemy/dth/skin
+"f_w_11_"
+{
+a a_nycskinhead1 0
+b b_nycskinhead1 0
+f f_w_11_n 0
+h h_w_11_c 0
+}
+{
+boltons/menupistol2.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_baldhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

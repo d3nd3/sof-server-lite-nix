@@ -1,0 +1,28 @@
+enemy/meso
+meso_menu9
+meso_player
+playerbultibul
+"Noteam"
+enemy/dth/skin
+"f_h_6_"
+{
+a a_colhench2 0
+b b_colhench2 0
+f f_h_6_n 0
+h h_h_6_s 0
+}
+{
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_ponytail 1
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_helmethead 0
+_helmetface 0
+}
+""

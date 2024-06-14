@@ -1,0 +1,31 @@
+enemy/meso
+meso_menu9
+meso_player
+playerbultibul
+"Capture, Inc"
+enemy/dth/skin
+"f_kevin_"
+{
+a a_kevin 0
+b b_kevin 0
+f f_kevin_n 0
+h h_kevin 0
+}
+{
+boltons/acc_kevin_patch.gbm abolt_head_t to_abolt_head_t 1.0
+boltons/acc_holster_kevin.gbm abolt_hip_r to_abolt_hip_r 1.0
+boltons/acc_knife_kevin.gbm abolt_hip_l to_abolt_hip_l 1.0
+boltons/menupistol1.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

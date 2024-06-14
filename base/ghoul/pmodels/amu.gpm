@@ -1,0 +1,31 @@
+enemy/meso
+meso_menu6
+meso_player
+playerbulbulcoat
+"Noteam"
+enemy/dth/arab
+"f_amu_"
+{
+a a_xamu 0
+b b_xamu 0
+f f_amu_n 0
+h h_amu 0
+}
+{
+boltons/funface.gbm abolt_head_t to_abolt_head_t 1.187857142857
+boltons/redberet.gbm abolt_head_t to_abolt_head_t 1.182857142857
+boltons/menuassault.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+_lear 0
+}
+""

@@ -1,0 +1,17 @@
+enemy/meso
+meso_menu3
+meso_player
+playermask
+"The December Brigade"
+enemy/dth/russ
+{}
+{
+a a_sibclean 0
+b b_sibclean 0
+md md_clean 0
+}
+{
+boltons/menupistol2.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{}
+""

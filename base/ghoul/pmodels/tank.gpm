@@ -1,0 +1,29 @@
+enemy/meso
+meso_menu4
+meso_player
+playerarbul
+"The Order"
+enemy/dth/rad
+""
+{
+a a_casrocket 0
+b b_casrocket 0
+f f_raider3 0
+h h_raider3 0
+}
+{
+boltons/faceplate2.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/menushot.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

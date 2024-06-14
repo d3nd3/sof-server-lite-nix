@@ -1,0 +1,30 @@
+enemy/meso
+meso_menu5
+meso_player
+playerbulbul
+"Noteam"
+enemy/dth/skin
+"f_john_"
+{
+a a_xjohn 0
+b b_xjohn 0
+f f_john_n 0
+h h_john 0
+}
+{
+boltons/flop3.gbm abolt_head_t to_abolt_head_t 1.142857142857
+boltons/smlbackpackgry.gbm abolt_back to_abolt_back 1.142857142857
+boltons/menupistol2.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

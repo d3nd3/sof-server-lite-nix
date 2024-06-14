@@ -1,0 +1,29 @@
+enemy/meso
+meso_menu6
+meso_player
+playerbulbulcoat
+"The December Brigade"
+enemy/dth/russ
+"f_w_16_"
+{
+a a_sibguard1 0
+b b_sibguard1 0
+f f_w_16_n 0
+h h_w_16_s 0
+}
+{
+boltons/bballsib.gbm abolt_head_t to_abolt_head_t_fwd 1.142857142857
+boltons/menuassault.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_crewhead 0
+_beardhead 0
+_beardface 0
+_mohawk 0
+_lbang 0
+_rbang 0
+_ponytail 0
+_helmethead 0
+_helmetface 0
+}
+""

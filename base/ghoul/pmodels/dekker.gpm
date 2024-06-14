@@ -1,0 +1,23 @@
+enemy/meso
+meso_menu1
+meso_player
+playerboss
+"The Order"
+enemy/dth/rad
+{}//hey, look. another comment!
+{//how about this one?
+a a_xdekker 0
+b b_xdekker 0//this comment will break something :(
+f f_dekker 0
+h h_dekker 0
+}
+{
+boltons/menuassault.gbm wbolt_hand_r to_wbolt_hand_r 1.0
+}
+{
+_lbang 0
+_rbang 0
+_ponytail 0
+_mohawk 0
+}
+""

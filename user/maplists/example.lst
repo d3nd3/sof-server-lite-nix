@@ -1,0 +1,60 @@
+// List with all maps
+
+//
+// DM maps
+//
+dm/airportdm            "Airport: 8+"
+dm/factorydm            "Factory: 8+"
+dm/irqdesertdm          "Iraqi Desert: 6+"
+dm/irqdm1               "Refinery: 6 - 8"
+dm/irqdm2               "Palace: 8 - 10"
+dm/jpndm2               "Restaurant: 2 - 6"
+dm/kosdm1               "The Sewers: 4 - 8"
+dm/labdm                "The Lab: 8+"
+dm/nycdm1               "Warehouse: 8 - 16"
+dm/nycdm2               "Underground: 4 - 6"
+dm/nycdm3               "Pawn Shop : 2 - 4"
+dm/nycdm4               "Back Alley: 2 - 4"
+dm/nycdm5               "Bunker: 2 - 5"
+dm/plantdm              "Power Plant: 8+"
+dm/raven                "Raven Software: 4+"
+dm/suddm1               "WI Death Farm: 6 - 10"
+dm/suddm2               "Trainyard: 6 - 8"
+dm/suddm3               "Rusted: 2 - 6"
+
+//
+// CON maps
+//
+dm/gercon1              "Castle Con: 8 - 12"
+dm/irqcon1              "Power Plant: 6 - 12"
+dm/jpncon1              "Rooftop: 6 - 10"
+dm/koscon1              "Street Fight: 4 - 8"
+dm/koscon2              "Airfield: 6 - 12"
+dm/sibcon1              "Cold Front: 8 - 12"
+dm/sudcon1              "S.I.: 6 - 16"
+
+//
+// CTB maps
+//
+dm/gerctb1              "Castle Gate: 5 - 12"
+dm/irqctb1              "Oil Toil: 6 - 10"
+dm/irqctb2              "Cargo Plane: 8 - 12"
+dm/irqctb3              "Building: 6 - 12"
+dm/jpnctb1              "Cleanroom: 6 - 12"
+dm/kosctb1              "Old Town: 6 - 10"
+dm/nycctb1              "Pendulum: 8 - 12"
+dm/nycctb2              "Death Barge: 8 - 12"
+dm/sibctb1              "Icelock: 4 - 8"
+dm/sibctb2              "Snowbase: 6 - 12"
+dm/sudctb1              "Meat Plant: 8 - 12"
+
+//
+// CTF maps
+//
+dm/gerctf1              "Castle Kill: 6 - 10"
+dm/irqctf1              "Wastelands: 6 - 12"
+dm/jpnctf1              "Parking: 4 - 8"
+dm/nycctf1              "Gangland: 16"
+dm/sibctf1              "Hell Freezes: 16"
+dm/sudctf1              "Flag Frag: 4 - 8"
+dm/sudctf2              "Missile Base: 16"
