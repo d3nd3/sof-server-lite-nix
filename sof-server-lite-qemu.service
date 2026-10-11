@@ -1,7 +1,8 @@
 [Unit]
 Description=Soldier of Fortune Linux server (QEMU i386)
 Wants=network-online.target
-After=network-online.target
+Requires=sof-cpu-performance.service
+After=network-online.target sof-cpu-performance.service
 
 [Service]
 Type=simple

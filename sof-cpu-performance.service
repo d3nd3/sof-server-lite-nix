@@ -1,0 +1,10 @@
+[Unit]
+Description=Use performance CPU governor for SoF server
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'for f in /sys/devices/system/cpu/cpufreq/policy*/scaling_governor; do echo performance > "$$f"; done'
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
