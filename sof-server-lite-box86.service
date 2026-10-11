@@ -16,7 +16,6 @@ ExecStart=/home/pi/sof-server-lite-nix/start-box86.sh
 Restart=on-failure
 RestartSec=5
 KillMode=control-group
-CPUAffinity=3
 
 [Install]
 WantedBy=multi-user.target
