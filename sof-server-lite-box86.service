@@ -1,0 +1,22 @@
+[Unit]
+Description=Soldier of Fortune Linux server (Box86)
+Wants=network-online.target
+Requires=sof-cpu-performance.service
+After=network-online.target sof-cpu-performance.service
+Conflicts=sof-server-lite-qemu.service
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/sof-server-lite-nix
+Environment=SOF_HOSTPORT=50223
+Environment=SOF_GAMESPYPORT=50224
+Environment=SOF_NO_WON=0
+ExecStart=/home/pi/sof-server-lite-nix/start-box86.sh
+Restart=on-failure
+RestartSec=5
+KillMode=control-group
+CPUAffinity=3
+
+[Install]
+WantedBy=multi-user.target
