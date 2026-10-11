@@ -10,4 +10,4 @@ exec box86 ./sof-mp-server \
   +set dedicated 1 +set user user +set sv_violence 63 +set developer 0 \
   +set hostport "${SOF_HOSTPORT:-50223}" \
   +set gamespyport "${SOF_GAMESPYPORT:-50224}" \
-  +set no_won "${SOF_NO_WON:-1}"
+  +set no_won "${SOF_NO_WON:-0}"
