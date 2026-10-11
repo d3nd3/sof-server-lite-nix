@@ -1,0 +1,17 @@
+[Unit]
+Description=Soldier of Fortune Linux server (QEMU i386)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/sof-server-lite-nix
+Environment=SOF_CPU=3
+ExecStart=/home/pi/sof-server-lite-nix/start-qemu.sh
+Restart=on-failure
+RestartSec=5
+KillMode=control-group
+
+[Install]
+WantedBy=multi-user.target
