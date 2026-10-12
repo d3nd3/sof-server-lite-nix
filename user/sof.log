@@ -1,0 +1,208 @@
+----------- Cpu info -----------
+Processor : AMD 
+Type      : Original OEM processor
+Speed     : 1002 MHz
+Name      : QEMU TCG CPU version 2.5+
+MMX instructions supported
+3DNow! instructions supported
+RDTSC instruction supported
+--------------------------------
+Using default memory value--use +set cpu_memory <n> to change
+65MB of physical memory
+Hostname: pilfs
+   IP #1: 127.0.1.1
+=== Server Initalization ===
+SP_Register: Registered client string package 'str_server' with ID 05
+[sof++nix] : ++nix Initialised. Version :  20261011.1637
+[sof++nix] : Curl Version : libcurl/7.88.1 OpenSSL/3.0.22 zlib/1.2.13 brotli/1.0.9 zstd/1.5.4 libidn2/2.3.3 libpsl/0.21.2 (+libidn2/2.3.3) libssh2/1.10.0 nghttp2/1.52.0 librtmp/2.3 OpenLDAP/2.5.13
+[sof++nix] : Enabling slidefix feature
+[sof++nix] : Disabling public rcon feature
+[sof++nix] : Disabling serverside demos feature
+
+====== Soldier of Fortune Initialized ======
+
+WipeSavegame (user/save/auto.sof)
+Sys_LoadLibrary( ./base/gamex86.so)
+==== InitGame ====
+Sys_LoadLibrary( ./base/player.so)
+==== InitPlayer Complete ====
+------- Server Initialization -------
+SpawnServer: dm/irqctf1
+CM_ClearMap: Map cleared
+CM_LoadLump: LUMP_TEXINFO 1143 entries (86868 in, 82296 out)
+CM_LoadLump: LUMP_REGIONS 0 entries (0 in, 0 out)
+CM_LoadLump: LUMP_LEAFS 3169 entries (101408 in, 190200 out)
+CM_LoadLump: LUMP_LEAFBRUSHES 2729 entries (5458 in, 5460 out)
+CM_LoadLump: LUMP_PLANES 2192 entries (43840 in, 44080 out)
+CM_LoadLump: LUMP_BRUSHES 1275 entries (15300 in, 20416 out)
+CM_LoadLump: LUMP_BRUSHSIDES 8266 entries (33064 in, 66176 out)
+CM_LoadLump: LUMP_MODELS 23 entries (1104 in, 1288 out)
+CM_LoadLump: LUMP_NODES 3145 entries (88060 in, 189060 out)
+CM_LoadLump: LUMP_AREAS 4 entries (32 in, 64 out)
+CM_LoadLump: LUMP_AREAPORTALS 9 entries (72 in, 72 out)
+CM_LoadLump: LUMP_VISIBILITY 244661 entries (244661 in, 244661 out)
+CM_LoadLump: LUMP_ENTITIES 18149 entries (18149 in, 18149 out)
+CM_LoadLump: LUMP_FACES 5590 entries (245960 in, 603720 out)
+CM_LoadLump: LUMP_VERTEXES 7717 entries (92604 in, 92604 out)
+CM_LoadLump: LUMP_LIGHTING 781584 entries (781584 in, 781584 out)
+CM_LoadLump: LUMP_LEAFFACES 6823 entries (13646 in, 27292 out)
+CM_LoadLump: LUMP_EDGES 14688 entries (58752 in, 58756 out)
+CM_LoadLump: LUMP_SURFEDGES 26775 entries (107100 in, 107100 out)
+CM_LoadLump: LUMP_POP 256 entries (256 in, 0 out)
+CM_LoadLump: LUMP_REGIONFACES 0 entries (0 in, 0 out)
+CM_LoadLump: LUMP_LIGHTS 2553 entries (91908 in, 0 out)
+Map checkstring: B541083571081835A93C9B012A116D6D1CD00BB72EB7
+SP_Register: Registered client string package 'dm_generic' with ID 00
+SP_Register: Registered client string package 'items' with ID 03
+SP_Register: Registered client string package 'weapons' with ID 02
+SP_Register: Registered client string package 'general' with ID 04
+SP_Register: Registered client string package 'bot' with ID 0c
+SP_Register: Registered client string package 'nix-b42b9730' with ID 07
+0 entities inhibited
+2 teams with 4 entities
+-------------------------------------
+------- Server Initialization -------
+SpawnServer: dm/nycdm1
+CM_ClearMap: Map cleared
+CM_LoadLump: LUMP_TEXINFO 2072 entries (157472 in, 149184 out)
+CM_LoadLump: LUMP_REGIONS 0 entries (0 in, 0 out)
+CM_LoadLump: LUMP_LEAFS 3100 entries (99200 in, 186060 out)
+CM_LoadLump: LUMP_LEAFBRUSHES 3708 entries (7416 in, 7418 out)
+CM_LoadLump: LUMP_PLANES 2140 entries (42800 in, 43040 out)
+CM_LoadLump: LUMP_BRUSHES 1764 entries (21168 in, 28240 out)
+CM_LoadLump: LUMP_BRUSHSIDES 11541 entries (46164 in, 92376 out)
+CM_LoadLump: LUMP_MODELS 2 entries (96 in, 112 out)
+CM_LoadLump: LUMP_NODES 3097 entries (86716 in, 186180 out)
+CM_LoadLump: LUMP_AREAS 2 entries (16 in, 32 out)
+CM_LoadLump: LUMP_AREAPORTALS 1 entries (8 in, 8 out)
+CM_LoadLump: LUMP_VISIBILITY 175407 entries (175407 in, 175407 out)
+CM_LoadLump: LUMP_ENTITIES 44022 entries (44022 in, 44022 out)
+CM_LoadLump: LUMP_FACES 6070 entries (267080 in, 655560 out)
+CM_LoadLump: LUMP_VERTEXES 7801 entries (93612 in, 93612 out)
+CM_LoadLump: LUMP_LIGHTING 726630 entries (726630 in, 726630 out)
+CM_LoadLump: LUMP_LEAFFACES 7098 entries (14196 in, 28392 out)
+CM_LoadLump: LUMP_EDGES 15704 entries (62816 in, 62820 out)
+CM_LoadLump: LUMP_SURFEDGES 28291 entries (113164 in, 113164 out)
+CM_LoadLump: LUMP_POP 256 entries (256 in, 0 out)
+CM_LoadLump: LUMP_REGIONFACES 0 entries (0 in, 0 out)
+CM_LoadLump: LUMP_LIGHTS 1230 entries (44280 in, 0 out)
+Map checkstring: 47969D6DC1B19C18B3B991C788CDE47C1C8B52B7D4B7
+Cmd_AddCommand: fx_save already defined
+Cmd_AddCommand: fx_load already defined
+SP_Register: Registered client string package 'dm_generic' with ID 00
+SP_Register: Registered client string package 'items' with ID 03
+SP_Register: Registered client string package 'weapons' with ID 02
+SP_Register: Registered client string package 'general' with ID 04
+SP_Register: Registered client string package 'bot' with ID 0c
+item_ammo_sniper doesn't have a spawn function
+item_ammo_sniper doesn't have a spawn function
+SP_Register: Registered client string package 'nix-b42b9730' with ID 07
+0 entities inhibited
+0 teams with 0 entities
+-------------------------------------
+----------- Cpu info -----------
+Processor : AMD 
+Type      : Original OEM processor
+Speed     : 990 MHz
+Name      : QEMU TCG CPU version 2.5+
+MMX instructions supported
+3DNow! instructions supported
+RDTSC instruction supported
+--------------------------------
+Using default memory value--use +set cpu_memory <n> to change
+65MB of physical memory
+Hostname: pilfs
+   IP #1: 127.0.1.1
+=== Server Initalization ===
+SP_Register: Registered client string package 'str_server' with ID 05
+[sof++nix] : ++nix Initialised. Version :  20261011.1638
+[sof++nix] : Curl Version : libcurl/7.88.1 OpenSSL/3.0.22 zlib/1.2.13 brotli/1.0.9 zstd/1.5.4 libidn2/2.3.3 libpsl/0.21.2 (+libidn2/2.3.3) libssh2/1.10.0 nghttp2/1.52.0 librtmp/2.3 OpenLDAP/2.5.13
+[sof++nix] : Enabling slidefix feature
+[sof++nix] : Disabling public rcon feature
+[sof++nix] : Disabling serverside demos feature
+execing dedicated.cfg
+
+Standard deathmatch flags are:
+
+num   name               value   definition of what flag does when set
+---   ----               -----   -------------------------------------
+01)   No Health           0     No health pickups spawned in level
+02)   No Items            0     No item pickups in spawned in level
+03)   Weapons Stay        1     Weapons remain after being picked up
+04)   No Falling Damage   0     Player takes no damage from falling
+05)   Realistic Damage    0     Realistic, body part specific damage
+06)   Same Level          0     Next level always same as current
+07)   No weapon reload    0     Weapons do not reload
+08)   Teamplay            0     Teamplay is enabled
+09)   No Friendly Fire    1     Player's fire can't hurt teamates
+10)   Force Respawn       0     Players respawn immediately after dying
+11)   No Armor            0     No armor pickups spawned in level
+12)   Infinite Ammo       0     Weapons use no ammo
+13)   Spinning Weapons    1     Weapon pickups rotate a la Quake
+14)   Bullet Only         0     Bullet only weapons
+15)   Unused              0
+16)   Unused              0
+----------- Cpu info -----------
+Processor : AMD 
+Type      : Original OEM processor
+Speed     : 1004 MHz
+Name      : QEMU TCG CPU version 2.5+
+MMX instructions supported
+3DNow! instructions supported
+RDTSC instruction supported
+--------------------------------
+Using default memory value--use +set cpu_memory <n> to change
+65MB of physical memory
+Hostname: pilfs
+   IP #1: 127.0.1.1
+=== Server Initalization ===
+SP_Register: Registered client string package 'str_server' with ID 05
+[sof++nix] : ++nix Initialised. Version :  20261011.1643
+[sof++nix] : Curl Version : libcurl/7.88.1 OpenSSL/3.0.22 zlib/1.2.13 brotli/1.0.9 zstd/1.5.4 libidn2/2.3.3 libpsl/0.21.2 (+libidn2/2.3.3) libssh2/1.10.0 nghttp2/1.52.0 librtmp/2.3 OpenLDAP/2.5.13
+[sof++nix] : Enabling slidefix feature
+[sof++nix] : Disabling public rcon feature
+[sof++nix] : Disabling serverside demos feature
+
+====== Soldier of Fortune Initialized ======
+
+[sof++nix] : [sof++nix] map dm/irqctf1.zip local=1
+WipeSavegame (user/save/auto.sof)
+Sys_LoadLibrary( ./base/gamex86.so)
+==== InitGame ====
+Sys_LoadLibrary( ./base/player.so)
+==== InitPlayer Complete ====
+------- Server Initialization -------
+SpawnServer: dm/irqctf1
+CM_ClearMap: Map cleared
+CM_LoadLump: LUMP_TEXINFO 1143 entries (86868 in, 82296 out)
+CM_LoadLump: LUMP_REGIONS 0 entries (0 in, 0 out)
+CM_LoadLump: LUMP_LEAFS 3169 entries (101408 in, 190200 out)
+CM_LoadLump: LUMP_LEAFBRUSHES 2729 entries (5458 in, 5460 out)
+CM_LoadLump: LUMP_PLANES 2192 entries (43840 in, 44080 out)
+CM_LoadLump: LUMP_BRUSHES 1275 entries (15300 in, 20416 out)
+CM_LoadLump: LUMP_BRUSHSIDES 8266 entries (33064 in, 66176 out)
+CM_LoadLump: LUMP_MODELS 23 entries (1104 in, 1288 out)
+CM_LoadLump: LUMP_NODES 3145 entries (88060 in, 189060 out)
+CM_LoadLump: LUMP_AREAS 4 entries (32 in, 64 out)
+CM_LoadLump: LUMP_AREAPORTALS 9 entries (72 in, 72 out)
+CM_LoadLump: LUMP_VISIBILITY 244661 entries (244661 in, 244661 out)
+CM_LoadLump: LUMP_ENTITIES 18149 entries (18149 in, 18149 out)
+CM_LoadLump: LUMP_FACES 5590 entries (245960 in, 603720 out)
+CM_LoadLump: LUMP_VERTEXES 7717 entries (92604 in, 92604 out)
+CM_LoadLump: LUMP_LIGHTING 781584 entries (781584 in, 781584 out)
+CM_LoadLump: LUMP_LEAFFACES 6823 entries (13646 in, 27292 out)
+CM_LoadLump: LUMP_EDGES 14688 entries (58752 in, 58756 out)
+CM_LoadLump: LUMP_SURFEDGES 26775 entries (107100 in, 107100 out)
+CM_LoadLump: LUMP_POP 256 entries (256 in, 0 out)
+CM_LoadLump: LUMP_REGIONFACES 0 entries (0 in, 0 out)
+CM_LoadLump: LUMP_LIGHTS 2553 entries (91908 in, 0 out)
+Map checkstring: B541083571081835A93C9B012A116D6D1CD00BB72EB7
+SP_Register: Registered client string package 'dm_generic' with ID 00
+SP_Register: Registered client string package 'items' with ID 03
+SP_Register: Registered client string package 'weapons' with ID 02
+SP_Register: Registered client string package 'general' with ID 04
+SP_Register: Registered client string package 'bot' with ID 0c
+SP_Register: Registered client string package 'nix-b42b9730' with ID 07
+0 entities inhibited
+2 teams with 4 entities
+-------------------------------------
